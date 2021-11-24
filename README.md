@@ -1,4 +1,4 @@
-# Dasafio Calendário Mobile
+# Desafio Calendário Mobile
 
 
 Já fez nosso desafio para o mural de anotações? Se não fez, [clique aqui](https://github.com/wavelabss/desafio-notas-mobile) e não perca a oportunidade! Além de práticas anotações, precisamos também de nossas agendas para nos organizarmos, não é mesmo? 
